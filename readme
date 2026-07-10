@@ -1,0 +1,20 @@
+# AI Multiverse - Image Generator
+
+This project generates AI images using the Pollinations AI Image API.
+
+## Features
+- Accepts a text prompt
+- Sends the prompt to the Pollinations AI API
+- Saves the generated image as GOAT.png
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python app.py
+```
